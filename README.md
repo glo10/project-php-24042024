@@ -48,7 +48,6 @@ Vous devez :
 
 ## *Definition of Done (DoD)*
 
-- Le reste de la *DoD* ci-après
 
 ![pb](./img/dod_light.png)
 
