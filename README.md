@@ -2,7 +2,6 @@
 
 ---
 
-
 ## Lancement du projet
 
 1. Désignez une personne dans l'équipe qui aura le rôle de Scrum MASTER (SM) et une autre personne le rôle de Product Owner (PO), par défaut les autres ont le rôle de Developpers (DEV)
@@ -37,11 +36,18 @@ Vous devez :
 
 ---
 
-## *Definition of Done (DoD)*
+## Spécifications techniques
 
+- [ ] Gestion de projet avec Trello
+- [ ] Ne perdez pas votre temps avec le front (surtout le CSS, utilisez Bootstrap à la place)
 - [ ] **Codez en anglais**
 - [ ] **Programmez en orienté objet (POO)**
 - [ ] Si vous envisagiez de modéliser l'application avec *UML* et/ou *Mérise*, il est indispensable de modéliser **uniquement les concepts qui sont associés à votre objectif de *Sprint*** ou qui permettent d'atteindre celui-ci. Autrement dit, **il n'est pas demandé de modéliser toute l'application voir même de modéliser tout court**. S'il y a modélisation, celle-ci doit aller **dans le sens de votre objectif de Sprint**
+
+---
+
+## *Definition of Done (DoD)*
+
 - Le reste de la *DoD* ci-après
 
 ![pb](./img/dod_light.png)
