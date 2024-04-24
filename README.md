@@ -117,4 +117,6 @@ L'équipe Marketing du client vous fournit les profils type des futurs utilisate
 ## Echantillon des données en JSON fournies par l'hôtel
 
 - [Données en JSON](./sample/)
+
+
 **PS:** toutes les informations fournies en **JSON**, s'ils doivent être intégrés, ils doivent être faits **de manière automatique**, autrement dit **pas de saisie manuelle**, car ses informations seront régulièrement mises à jour au fur et à mesure.
