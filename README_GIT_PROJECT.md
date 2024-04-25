@@ -1,6 +1,6 @@
 # *Git* simplifié pour les besoins du projet
 
-## Je souhaite envoyer mon code depuis le local *VSCODE* vers *GitHub*
+## Scénario 1 (*Local* vers *GitHub* sur la branche principale *main*) : Je souhaite envoyer mon code depuis le local *VSCODE* vers *GitHub*
 
 Depuis le *terminal* de *VSCODE* :
 
@@ -17,7 +17,7 @@ Depuis le *terminal* de *VSCODE* :
 - [2. Vidéo de la fusion de mes travaux dans la branche principale depuis GitHub](./videos/manipulation_sur_github.mp4)
 ---
 
-## On m'a fait signe de récupérer en local les mises à jour d'un autre collaborateur (collègue) après que ce dernier ait fusionné son travail sur la *branche principale main*
+## Scénario 2 (*GitHub* branche principale *main* vers la branche portant votre prénom en local) : On m'a fait signe de récupérer en local les mises à jour d'un autre collaborateur (collègue) après que ce dernier ait fusionné son travail sur la *branche principale main*
 
 Depuis le *terminal* de *VSCODE* sur ma branche :
 1. Exécutez la commande `git merge origin/main`, c'est tout
